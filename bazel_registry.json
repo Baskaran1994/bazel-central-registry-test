@@ -1,3 +1,5 @@
 {
-    "mirrors": []
+  "mirrors": [
+    "https://raw.githubusercontent.com/Baskaran1994/bazel-central-registry-test/main/"
+  ]
 }
